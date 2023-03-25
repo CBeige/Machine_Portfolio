@@ -12,3 +12,6 @@ Here are my notebooks on [Regression](Regression.pdf) and [Classification](Class
 
 ## C++ ML Implementation
 Here are my implementations for [NaiveBayes](NaiveBayes.cpp) and [LogReg](LogReg.cpp). Along with the [Report](C++_Implementation.pdf)
+
+## Dimensionality Reduction
+Here is my notebook on [dimensionality reduction](dim_red.pdf) methods.
