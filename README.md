@@ -15,3 +15,6 @@ Here are my implementations for [NaiveBayes](NaiveBayes.cpp) and [LogReg](LogReg
 
 ## Dimensionality Reduction
 Here is my notebook on [dimensionality reduction](dim_red.pdf) methods.
+
+## ML with sklearn
+Here is my python notebook on [ML with sklearn](mlwithsklearn.pdf).
