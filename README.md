@@ -18,3 +18,6 @@ Here is my notebook on [dimensionality reduction](dim_red.pdf) methods.
 
 ## ML with sklearn
 Here is my python notebook on [ML with sklearn](mlwithsklearn.pdf).
+
+## Image Classification with Keras
+Here is my notebook on [Image Classification using Keras](ImageClassification.pdf).
